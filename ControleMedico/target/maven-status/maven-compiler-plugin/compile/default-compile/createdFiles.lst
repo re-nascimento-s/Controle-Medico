@@ -1,0 +1,4 @@
+controlemedico\App.class
+controlemedico\Paciente.class
+controlemedico\Conexao.class
+controlemedico\PacienteDAO.class
